@@ -1,0 +1,22 @@
+[
+    {
+        "titulo": "trabajar",
+        "estado": "terminada"
+    },
+    {
+        "titulo": "estudiar",
+        "estado": "en progreso"
+    },
+    {
+        "titulo": "lavar",
+        "estado": "pendiente"
+    },
+    {
+        "titulo": "comer",
+        "estado": "pendiente"
+    },
+    {
+        "titulo": "lavar los platos",
+        "estado": "pendiente"
+    }
+]
