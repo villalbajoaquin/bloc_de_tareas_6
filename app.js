@@ -1,7 +1,7 @@
 const tareas = require('./funcionesDeTareas');
 let accion = process.argv[2];
 
-switch(accion){
+switch (accion) {
     case 'listar':
         console.log('Estas son las tareas:');
         tareas.listarTareas();
